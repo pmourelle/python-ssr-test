@@ -67,10 +67,18 @@ SAMPLE
 
 ### Output
 
-Case #1: INSOMNIA Case #2: 10
-Case #3: 90 Case #4: 110 Case #5: 5076
+##### Case #1: INSOMNIA 
+##### Case #2: 10
+##### Case #3: 90 
+##### Case #4: 110 
+##### Case #5: 5076
+
 In Case #1, since 2 × 0 = 0, 3 × 0 = 0, and so on, Bleatrix will never see any digit other than 0, and so she will count forever and never fall asleep. Poor sheep!
+
 In Case #2, Bleatrix will name 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. The 0 will be the last digit needed, and so she will fall asleep after 10.
+
 In Case #3, Bleatrix will name 2, 4, 6... and so on. She will not see the digit 9 in any number until 90, at which point she will fall asleep. By that point, she will have already seen the digits 0, 1, 2, 3, 4, 5, 6, 7, and 8, which will have appeared for the first time in the numbers 10, 10, 2, 30, 4, 50, 6, 70, and 8, respectively.
+
 In Case #4, Bleatrix will name 11, 22, 33, 44, 55, 66, 77, 88, 99, 110 and then fall asleep.
+
 Case #5 is the one described in the problem statement. Sample input: https://goo.gl/zSQFrI
